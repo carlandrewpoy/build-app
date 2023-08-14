@@ -3,15 +3,27 @@
   "compilerOptions": {
     "strict": true,
     "paths": {
-      "@/*": [
-        "./*"
-      ]
+      "@/*": ["./*"]
     }
   },
   "include": [
     "**/*.ts",
     "**/*.tsx",
     ".expo/types/**/*.ts",
-    "expo-env.d.ts"
+    "expo-env.d.ts",
+    "context/auth.js",
+    "context/auth.js",
+    "context/auth.js",
+    "context/auth.js",
+    "context/auth.js",
+    "context/auth.js",
+    "app/_layout.js",
+    "app/(drawer)/index.jsx",
+    "app/(drawer)/_layout.js",
+    "app/(drawer)/history/index.jsx",
+    "app/addBet/submit/index.jsx",
+    "app/(drawer)/history/index.jsx",
+    "app/addBet/index.jsx",
+    "app/(drawer)/add/index.jsx"
   ]
 }
